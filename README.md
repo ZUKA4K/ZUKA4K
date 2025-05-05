@@ -8,11 +8,9 @@
 
 I'm a 16-year-old web developer from Georgia passionate about creating responsive and dynamic web applications. Currently focusing on modern JavaScript frameworks and cloud technologies.
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology You're Learning]**
+- 🔭 I'm currently working on **[otakushopge.netlify.app]**
+- 🌱 I'm currently learning **[PHP, SQL]**
 - 👯 I'm looking to collaborate on **innovative web projects**
-- 💬 Ask me about **front-end development, UI/UX, and cloud solutions**
-- ⚡ Fun fact: **[Something Interesting About You]**
 
 ## Tech Stack 💻
 
