@@ -64,7 +64,6 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
       <br />
       <p align="center">
         <a href="https://github.com/YOUR_GITHUB_USERNAME/animes-website" target="_blank">
-          <img src="https://img.shields.io/badge/Code-171515?style=for-the-badge&logo=github&logoColor=white"/>
         </a>  
         <a href="https://animes.ge/" target="_blank">
           <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
@@ -80,7 +79,6 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
       <br />
       <p align="center">
         <a href="https://github.com/YOUR_GITHUB_USERNAME/otaku-shop" target="_blank">
-          <img src="https://img.shields.io/badge/Code-171515?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="https://otakushopge.netlify.app" target="_blank">
           <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
