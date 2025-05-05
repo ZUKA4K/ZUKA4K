@@ -80,19 +80,19 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
 </table>
 
 Connect With Me 🌐
-<div align="center">
+<div align="center" style="text-decoration: none;">
   <table>
     <tr>
       <td>
         <a href="https://facebook.com/zuka.gvineria" target="_blank">
           <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" />
-          <span>&nbsp;Facebook: <code>Zuka Gvineria</code></span>
+          <span style="text-decoration: none;">&nbsp;Facebook: <code style="text-decoration: none;">Zuka Gvineria</code></span>
         </a>
       </td>
       <td>
         <a href="https://instagram.com/zuka4k" target="_blank">
           <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
-          <span>&nbsp;Instagram: <code>zuka4k</code></span>
+          <span style="text-decoration: none;">&nbsp;Instagram: <code style="text-decoration: none;">zuka4k</code></span>
         </a>
       </td>
     </tr>
@@ -100,18 +100,15 @@ Connect With Me 🌐
       <td>
         <a href="mailto:zambaxa321@gmail.com">
           <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
-          <span>&nbsp;Email: <code>zambaxa321@gmail.com</code></span>
+          <span style="text-decoration: none;">&nbsp;Email: <code style="text-decoration: none;">zambaxa321@gmail.com</code></span>
         </a>
       </td>
       <td>
         <a href="tel:+995593574207">
           <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="Phone" height="30" width="40" />
-          <span>&nbsp;Phone: <code>+995 593 57 42 07</code></span>
+          <span style="text-decoration: none;">&nbsp;Phone: <code style="text-decoration: none;">+995 593 57 42 07</code></span>
         </a>
       </td>
     </tr>
   </table>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
