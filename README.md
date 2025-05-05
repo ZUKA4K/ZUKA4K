@@ -38,7 +38,7 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![API](https://img.shields.io/badge/API-0096FF?style=for-the-badge&logo=api&logoColor=white)
-![VEGAS Pro](https://img.shields.io/badge/VEGAS_Pro-00ADEF?style=for-the-badge&logo=vegas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
