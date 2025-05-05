@@ -81,23 +81,37 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
 
 Connect With Me 🌐
 <div align="center">
-  <a href="https://facebook.com/zuka.gvineria" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/zuka4k" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:zambaxa321@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="tel:+995593574207">
-    <img src="https://img.shields.io/badge/Phone-0078D4?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://facebook.com/zuka.gvineria" target="_blank">
+          <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" />
+          <span>&nbsp;Facebook: <code>Zuka Gvineria</code></span>
+        </a>
+      </td>
+      <td>
+        <a href="https://instagram.com/zuka4k" target="_blank">
+          <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+          <span>&nbsp;Instagram: <code>zuka4k</code></span>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="mailto:zambaxa321@gmail.com">
+          <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+          <span>&nbsp;Email: <code>zambaxa321@gmail.com</code></span>
+        </a>
+      </td>
+      <td>
+        <a href="tel:+995593574207">
+          <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="Phone" height="30" width="40" />
+          <span>&nbsp;Phone: <code>+995 593 57 42 07</code></span>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
