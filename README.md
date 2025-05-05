@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Zura Ghvineria 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;16+Year+Old+Coding+Enthusiast;Building+the+Web+of+Tomorrow" alt="Typing SVG" />
