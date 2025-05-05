@@ -44,15 +44,6 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
 
 ## Projects 🛠️
 
-<div align="center">
-  <a href="https://animes.ge/" target="_blank">
-    <img src="https://img.shields.io/badge/Animes.ge-FF5722?style=for-the-badge&logo=anime&logoColor=white" alt="Animes.ge" />
-  </a>
-  <a href="https://otakushopge.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Otaku_Shop-7B68EE?style=for-the-badge&logo=shop&logoColor=white" alt="Otaku Shop" />
-  </a>
-</div>
-
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
