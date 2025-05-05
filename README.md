@@ -52,10 +52,10 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
 ## Projects 🛠️
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/project1">
+  <a href="https://animes.ge/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/project2">
+  <a href="otakushopge.netlify.app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project2&theme=tokyonight" />
   </a>
 </div>
