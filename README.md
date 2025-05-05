@@ -42,21 +42,14 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
 
 </div>
 
-## My GitHub Stats 📊
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ## Projects 🛠️
 
 <div align="center">
-  <a href="https://animes.ge/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project1&theme=tokyonight" />
+  <a href="https://animes.ge/" target="_blank">
+    <img src="https://img.shields.io/badge/Animes.ge-FF5722?style=for-the-badge&logo=anime&logoColor=white" alt="Animes.ge" />
   </a>
-  <a href="otakushopge.netlify.app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project2&theme=tokyonight" />
+  <a href="https://otakushopge.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Otaku_Shop-7B68EE?style=for-the-badge&logo=shop&logoColor=white" alt="Otaku Shop" />
   </a>
 </div>
 
