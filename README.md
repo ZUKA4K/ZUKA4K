@@ -53,7 +53,6 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
   </a>
 </div>
 
-✨ Featured Projects
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
@@ -71,7 +70,6 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
           <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
         </a>
       </p>
-      <p><strong>HTML, CSS, JavaScript, Angular</strong> - A comprehensive anime streaming platform for Georgian viewers with a modern interface and extensive library of content.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Otaku Shop</h3>
@@ -88,7 +86,6 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
           <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
         </a>
       </p>
-      <p><strong>HTML, SASS, Bootstrap, JavaScript, Firebase</strong> - An e-commerce platform for anime merchandise with integrated payment system and user authentication.</p>
     </td>
   </tr>
 </table>
