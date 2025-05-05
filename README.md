@@ -6,7 +6,7 @@
 
 ## About Me 🚀
 
-I'm a 16-year-old web developer from Georgia passionate about creating responsive and dynamic web applications. Currently focusing on modern JavaScript frameworks and cloud technologies.
+I'm a 16-year-old web developer from Georgia passionate about creating responsive and dynamic web applications.
 
 - 🔭 I'm currently working on **[otakushopge.netlify.app]**
 - 🌱 I'm currently learning **[PHP, SQL]**
