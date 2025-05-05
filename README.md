@@ -53,6 +53,46 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
   </a>
 </div>
 
+✨ Featured Projects
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Animes.ge</h3>
+      <br />
+      <a target="_blank" href="https://animes.ge/">
+        <img src="https://api.microlink.io?url=https://animes.ge&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Animes.ge"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/animes-website" target="_blank">
+          <img src="https://img.shields.io/badge/Code-171515?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>  
+        <a href="https://animes.ge/" target="_blank">
+          <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>HTML, CSS, JavaScript, Angular</strong> - A comprehensive anime streaming platform for Georgian viewers with a modern interface and extensive library of content.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Otaku Shop</h3>
+      <br />
+      <a target="_blank" href="https://otakushopge.netlify.app">
+        <img src="https://api.microlink.io?url=https://otakushopge.netlify.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Otaku Shop"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/otaku-shop" target="_blank">
+          <img src="https://img.shields.io/badge/Code-171515?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://otakushopge.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>HTML, SASS, Bootstrap, JavaScript, Firebase</strong> - An e-commerce platform for anime merchandise with integrated payment system and user authentication.</p>
+    </td>
+  </tr>
+</table>
+
 ## Connect With Me 🌐
 
 <div align="center">
