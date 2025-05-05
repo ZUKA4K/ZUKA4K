@@ -94,10 +94,3 @@ Connect With Me 🌐
     <img src="https://img.shields.io/badge/Phone-0078D4?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
   </a>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</div>
