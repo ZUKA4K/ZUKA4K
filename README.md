@@ -82,7 +82,7 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
 Connect With Me 🌐
 <div align="center">
   <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook: zuka gvineria" />
+    <img src="https://img.shields.io/badge/Facebook:-Zuka-Gvineria-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
