@@ -8,7 +8,7 @@
 
 I'm a 16-year-old web developer from Georgia passionate about creating responsive and dynamic web applications.
 
-- 🔭 I'm currently working on **[otakushopge.netlify.app]**
+- 🔭 I'm currently working on **[gotaku.ge]**
 - 🌱 I'm currently learning **[PHP, SQL]**
 - 👯 I'm looking to collaborate on **innovative web projects**
 
@@ -62,7 +62,7 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Otaku Shop</h3>
+      <h3 align="center">Gotaku.Ge</h3>
       <br />
       <a target="_blank" href="https://otakushopge.netlify.app">
         <img src="https://api.microlink.io?url=https://otakushopge.netlify.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Otaku Shop"/>
