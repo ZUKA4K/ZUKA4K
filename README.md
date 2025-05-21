@@ -84,7 +84,7 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
       </a>
       <br />
       <p align="center">
-        <a href="pticezarioni.netlify.app" target="_blank">
+        <a href="[pticezarioni.netlify.app](https://github.com/YOUR_GITHUB_USERNAME/pticezarioni)" target="_blank">
         </a>
         <a href="https://pticezarioni.netlify.app" target="_blank">
           <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
