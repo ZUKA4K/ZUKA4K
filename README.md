@@ -76,6 +76,36 @@ I'm a 16-year-old web developer from Georgia passionate about creating responsiv
         </a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">pticezarioni.netlify.app</h3>
+      <br />
+      <a target="_blank" href="pticezarioni.netlify.app">
+        <img src="https://api.microlink.io?url=https://pticezarioni.netlify.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Otaku Shop"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/otaku-shop" target="_blank">
+        </a>
+        <a href="https://otakushopge.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+        <td width="50%" valign="top">
+      <h3 align="center">zuka4k.netlify.app</h3>
+      <br />
+      <a target="_blank" href="zuka4k.netlify.app">
+        <img src="https://api.microlink.io?url=https://zuka4k.netlify.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Otaku Shop"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/otaku-shop" target="_blank">
+        </a>
+        <a href="https://otakushopge.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        </a>
+      </p>
+    </td>
   </tr>
 </table>
 
