@@ -8,7 +8,7 @@
 
 I'm a 16-year-old web developer from Georgia passionate about creating responsive and dynamic web applications.
 
-- 🔭 I'm currently working on **[gotaku.ge]**
+- 🔭 I'm currently working on **[pticezarioni.netlify.app]**
 - 🌱 I'm currently learning **[PHP, SQL]**
 - 👯 I'm looking to collaborate on **innovative web projects**
 
